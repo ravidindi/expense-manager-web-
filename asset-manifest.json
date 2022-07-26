@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/expense-manager-web-/static/css/main.33432d6f.css",
+    "main.js": "/expense-manager-web-/static/js/main.699ebc83.js",
+    "static/js/787.afd34582.chunk.js": "/expense-manager-web-/static/js/787.afd34582.chunk.js",
+    "index.html": "/expense-manager-web-/index.html",
+    "main.33432d6f.css.map": "/expense-manager-web-/static/css/main.33432d6f.css.map",
+    "main.699ebc83.js.map": "/expense-manager-web-/static/js/main.699ebc83.js.map",
+    "787.afd34582.chunk.js.map": "/expense-manager-web-/static/js/787.afd34582.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33432d6f.css",
+    "static/js/main.699ebc83.js"
+  ]
+}
